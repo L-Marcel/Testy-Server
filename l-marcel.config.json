@@ -1,4 +1,5 @@
 {
+  "translatedDescription": "[Cancelado] Aplicação desenvolvida em Node.js. Se trata do servidor Back-End de uma plataforma que reune diferentes métodos de criação de formulários para que os professores realizassem suas avaliações de maneira prática e previnindo supostas colas ou plágios. Infelizmente o Back-End ficou muito complexo para mim.",
   "technologies": [
     "Node.js",
     "HTML",
